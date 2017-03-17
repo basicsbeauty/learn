@@ -2,7 +2,7 @@
 // Filename: l9.go
 // Location: /Users/Atom/repos/learn/go
 // Project :
-// Date    : 2017-03-11
+// Date    : 2017-01-11
 // Author  : Atom
 // Scope   : Slices
 // Usage   :

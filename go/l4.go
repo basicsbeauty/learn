@@ -2,7 +2,7 @@
 // Filename: l4.go
 // Location: /Users/Atom/repos/learn/go
 // Project :
-// Date    : 2017-03-10
+// Date    : 2017-01-10
 // Author  : Atom
 // Scope   :
 // Usage   : constants & type conversion
